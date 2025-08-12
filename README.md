@@ -41,4 +41,4 @@ Enjoy learning and experimenting with your Perceptron! 🚀
 
 ---
 
-*Made with ❤️ by [Your Name]*  
+*Made with ❤️ by [Dfiatt]*  
