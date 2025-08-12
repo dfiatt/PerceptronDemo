@@ -1,15 +1,14 @@
-
-.s5SSSs.  .s5SSSs.  .s5SSSs.  .s5SSSs.  .s5SSSs.  .s5SSSs.  .s5SSSSs. .s5SSSs.  .s5SSSs.  .s    s.  
-      SS.       SS.       SS.       SS.       SS.       SS.    SSS          SS.       SS.       SS. 
-sS    S%S sS    `:; sS    S%S sS    `:; sS    `:; sS    S%S    S%S    sS    S%S sS    S%S sSs.  S%S 
-SS    S%S SS        SS    S%S SS        SS        SS    S%S    S%S    SS    S%S SS    S%S SS`S. S%S 
-SS .sS::' SSSs.     SS .sS;:' SS        SSSs.     SS .sS::'    S%S    SS .sS;:' SS    S%S SS `S.S%S 
-SS        SS        SS    ;,  SS        SS        SS           S%S    SS    ;,  SS    S%S SS  `sS%S 
-SS        SS        SS    `:; SS        SS        SS           `:;    SS    `:; SS    `:; SS    `:; 
-SS        SS    ;,. SS    ;,. SS    ;,. SS    ;,. SS           ;,.    SS    ;,. SS    ;,. SS    ;,. 
-`:        `:;;;;;:' `:    ;:' `:;;;;;:' `:;;;;;:' `:           ;:'    `:    ;:' `:;;;;;:' :;    ;:' 
-
-
+ ███████████                                                  █████                                 
+░░███░░░░░███                                                ░░███                                  
+ ░███    ░███  ██████  ████████   ██████   ██████  ████████  ███████   ████████   ██████  ████████  
+ ░██████████  ███░░███░░███░░███ ███░░███ ███░░███░░███░░███░░░███░   ░░███░░███ ███░░███░░███░░███ 
+ ░███░░░░░░  ░███████  ░███ ░░░ ░███ ░░░ ░███████  ░███ ░███  ░███     ░███ ░░░ ░███ ░███ ░███ ░███ 
+ ░███        ░███░░░   ░███     ░███  ███░███░░░   ░███ ░███  ░███ ███ ░███     ░███ ░███ ░███ ░███ 
+ █████       ░░██████  █████    ░░██████ ░░██████  ░███████   ░░█████  █████    ░░██████  ████ █████
+░░░░░         ░░░░░░  ░░░░░      ░░░░░░   ░░░░░░   ░███░░░     ░░░░░  ░░░░░      ░░░░░░  ░░░░ ░░░░░ 
+                                                   ░███                                             
+                                                   █████                                            
+                                                  ░░░░░                                             
 # Perceptron
 
 Welcome to the Perceptron project — a simple yet powerful implementation of one of the foundational algorithms in machine learning!
