@@ -1,8 +1,4 @@
-# __   ___  __   __   ___  __  ___  __   __       
-#|__) |__  |__) /  ` |__  |__)  |  |__) /  \ |\ | 
-#|    |___ |  \ \__, |___ |     |  |  \ \__/ | \| 
-                                                 
- 
+
 # Perceptron
 
 Welcome to the Perceptron project — a simple yet powerful implementation of one of the foundational algorithms in machine learning!
